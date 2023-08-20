@@ -54,13 +54,22 @@ GIF created with ...
 
 -Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
-    - One app idea that I brainstormed revolves around transforming eco-friendliness into an engaging and rewarding game. Picture this: an app where users earn rewards and recognition for making environmentally responsible choices, turning sustainability into an exciting challenge. This app would also include a leaderboard, allowing users to compete with friends and others to see who can top the charts in their eco-friendly endeavors. Plus, it would plot their progress over time and use the camera to provide real-time feedback on how to reduce their carbon footprint. Users could scan items like food, bikes, or any products to instantly see how environmentally friendly they are
+        - One app idea that I brainstormed revolves around transforming eco-friendliness 
+        into an engaging and rewarding game. Picture this: an app where users earn rewards 
+        and recognition for making environmentally responsible choices, turning sustainability 
+        into an exciting challenge. This app would also include a leaderboard, allowing users to 
+        compete with friends and others to see who can top the charts in their eco-friendly endeavors. 
+        Plus, it would plot their progress over time and use the camera to provide real-time feedback 
+        on how to reduce their carbon footprint. Users could scan items like food, bikes, or any 
+        products to instantly see how environmentally friendly they are
     
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-    - I had isssues connecting the button along with its logic to make it actually work and change the color of the screen. Also I had issues with setting up github and git. 
+        - I had isssues connecting the button along with its 
+        logic to make it actually work and change the color of 
+        the screen. Also I had issues with setting up github and git. 
 
 ## License
 
