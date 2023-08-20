@@ -16,7 +16,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="https://imgur.com/a/nK0zP3k" width="40" height="40" />
+
+<a href='https://imgur.com/a/nK0zP3k'>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getKap
@@ -63,9 +64,6 @@ GIF created with getKap
         products to instantly see how environmentally friendly they are
     
 ## Notes
-
-<!--<img src='https://imgur.com/a/nK0zP3k title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
-
 
 Describe any challenges encountered while building the app.
 
