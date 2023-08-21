@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 ![hippo](https://imgur.com/a/nK0zP3k)
 
-![] = (https://imgur.com/a/nK0zP3k)
+![Image Alt Text](https://imgur.com/a/nK0zP3k)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getKap
