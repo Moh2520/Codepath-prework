@@ -1,6 +1,6 @@
-# Prework - *Name of App Here*
+# Prework - *Codepath Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mohamed Mohamed**
 
 ** background Color Changing App ** is an app that... [Changes the background color of screen using a button] 
 
@@ -16,10 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![hippo](https://imgur.com/a/nK0zP3k)
-
-![Image Alt Text](https://imgur.com/a/nK0zP3k)
+![](https://hackmd.io/_uploads/S1hE508ph.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getKap
